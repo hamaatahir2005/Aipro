@@ -1,0 +1,11 @@
+.env
+*.db
+*.db-*
+__pycache__/
+.pytest_cache/
+.venv/
+.dart_tool/
+build/
+*.jks
+key.properties
+local.properties
